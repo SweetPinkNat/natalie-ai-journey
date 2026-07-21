@@ -17,15 +17,16 @@ My journey learning Python from scratch, working toward AI/ML skills over the ne
 - **Lesson 9** — Basic OOP (classes & objects)
 - **Lesson 10** — Final project: an interactive quiz game combining everything above
 
-## Currently working on: Phase 2
+## Phase 2: Python Intermediate + Tools ✅ Complete
 
-Git & GitHub, virtual environments, APIs, error handling, and basic FastAPI/Flask.
+- **Lesson 11** — Working with APIs (requests, JSON)
+- **Lesson 12** — Error handling & debugging (try/except)
+- **Lesson 13** — Basic FastAPI: built and ran a live web server
 
-## Roadmap
+Also covered: Git & GitHub (this repo!) and virtual environments.
 
-- ✅ Phase 1: Python Fundamentals
-- 🔄 Phase 2: Python Intermediate + Tools
-- ⬜ Phase 3: Web Basics + Data
-- ⬜ Phase 4: AI & Local LLMs
-- ⬜ Phase 5: Advanced AI Engineering
-- ⬜ Phase 6: Specialization & Job Prep
+## Phase 3: Web Basics + Data ✅ Complete
+
+- **Lesson 14** — HTML & CSS: first webpage
+- **Lesson 15** — JavaScript: interactive buttons & live page updates
+- **Lesson 16** — Pandas:
