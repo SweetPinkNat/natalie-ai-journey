@@ -29,4 +29,19 @@ Also covered: Git & GitHub (this repo!) and virtual environments.
 
 - **Lesson 14** — HTML & CSS: first webpage
 - **Lesson 15** — JavaScript: interactive buttons & live page updates
-- **Lesson 16** — Pandas:
+- **Lesson 16** — Pandas: DataFrames, filtering, sorting
+- **Lesson 17** — Data visualization with matplotlib
+- **Lesson 18** — Combined mini project: a small data pipeline from raw data to a saved chart
+
+## Currently working on: Phase 4
+
+AI & Local LLMs — local models (Ollama, LM Studio), RAG, and building basic AI agents.
+
+## Roadmap
+
+- ✅ Phase 1: Python Fundamentals
+- ✅ Phase 2: Python Intermediate + Tools
+- ✅ Phase 3: Web Basics + Data
+- 🔄 Phase 4: AI & Local LLMs
+- ⬜ Phase 5: Advanced AI Engineering
+- ⬜ Phase 6: Specialization & Job Prep
