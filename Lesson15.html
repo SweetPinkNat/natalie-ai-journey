@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Practice</title>
+    <style>
+        body { font-family: Arial; text-align: center; margin-top: 50px; }
+        button { padding: 10px 20px; font-size: 16px; cursor: pointer; }
+        #output { margin-top: 20px; font-size: 20px; color: purple; }
+    </style>
+</head>
+<body>
+    <h1>JavaScript Practice</h1>
+    <button onclick="sayHi()">Say Hi</button>
+    <button onclick="showCount()">Click Counter</button>
+    <p id="output"></p>
+
+    <script>
+        let clickCount = 0;
+
+        function sayHi() {
+            document.getElementById("output").innerText = "Hi Natalie! JavaScript is working.";
+        }
+
+        function showCount() {
+            clickCount = clickCount + 1;
+            document.getElementById("output").innerText = "You've clicked " + clickCount + " times.";
+        }
+    </script>
+</body>
+</html>
